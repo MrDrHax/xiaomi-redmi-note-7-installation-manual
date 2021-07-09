@@ -85,7 +85,7 @@ You made it this far! be proud of yourself, you are a hacker now (kinda, I think
 Open the UB ports installer. Your device should be recognized automatically, and the installer should guide you through the following steps, but here is a little help from me.
 
 1. Do not get rid of android unless you are completely sure you want to or have a backup. I had a lot of second thoughts about my installation, and since I didn't backup mu "stock" android version, I had to get a shady android version from another site. So I decided to just stick with Ubuntu touch.
-1. When asked to download a new file for copyright reasons, you can leave it either packed or unpacked. I decided to unpack it first, but it shouldn't matter too much.
+1. When asked to download a new file for copyright reasons, you need to unpack it first, then select the select the extracted.
 1. if you get stuck on the first step for more than a minute, you did something wrong, go to the UB ports telegram for help.
 
 **Boot into Ubuntu Touch**: Perfect, you did it! Now go through the setup processes, give your device a name, and all of that good stuff. An you are now done! 
