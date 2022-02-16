@@ -2,6 +2,8 @@
 
 Guide by Dr.Hax, follow me on [GitHub](https://github.com/MrDrHax)
 
+> NOTE: I have stopped using ubuntu touch to explore other distros, this info here might be outdated (post made on 2021), however, the ubuntu touch community is amazing, go chat with them on telegram! 
+
 ## 1) Getting everything ready
 
 For this guide to help you, you have to have the following handy:
